@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Lora&family=Open+Sans:wght@800&family=Roboto:wght@400;700&display=swap');
+
+
+* {
+    margin: 10;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Open Sans', sans-serif;
+}
+
+body {
+    background-color: #bba694;
+}
+
+section {
+    position: relative;
+    width: 100%;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 100px;
+}
+
+.tituloBox {
+    display: flex;
+
+
+}
+
+.Imagen {
+    width: 350px;
+    border-radius: 10%;
+    margin: 2%;
+}
